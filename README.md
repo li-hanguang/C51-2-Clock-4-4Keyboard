@@ -29,3 +29,9 @@
 （8）再按下R键，时钟从设置好的时间开始运行。
   
 顺便附一下图：
+      仿真制图：
+
+![ILWDZE)B`)78_0(7PSO4SN](https://user-images.githubusercontent.com/83332148/118977863-37b2ac00-b9a9-11eb-9f3e-ff83bb6292a5.png)
+
+![K8ZOH0BYI8`5Q7) 6~)G%GR](https://user-images.githubusercontent.com/83332148/118977761-1a7ddd80-b9a9-11eb-8a2d-f4a36495ac52.png)
+
